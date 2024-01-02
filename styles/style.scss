@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eaf0f0;
+  font-family: 'Roboto', sans-serif;
+}
+
+// .layout {
+//   background-color: #070606 ;
+//   padding: 1rem;
+//   .header {
+//     max-width: 1200px;
+//     margin: 0 auto;
+//     padding: 0 20px;
+//     color: #eaf0f0;
+//     height: 3.5rem;
+//     display: flex;
+//     align-items: center;
+//     justify-content: space-between;
+
+//     // LEFT-NAV
+//     .left-nav {
+//       display: flex;
+//       gap: 5px;
+//       font-size: 2rem;
+
+//       .logo{
+//         display: flex;
+//         align-items: center;
+//         justify-content: center;
+//       }
+//     }
+
+//     // RIGHT-NAV
+//     .right-nav{
+//       // background-color: tomato;
+
+//       .nav-links{
+//         // background-color: rgb(43, 68, 6);
+//         list-style: none;
+//         display: flex;
+//         // padding: .7rem;
+//         gap: 1.5rem;
+
+//         .link{
+//           // background-color: #4C5FD5;
+//           padding: .7rem;
+//           border-radius: 5px;
+//           border: #dadbf1 2px solid;
+//           cursor: pointer;
+//           transition: .3s ease-in-out;
+
+//           a {
+//             color: #dadbf1;
+//             text-decoration: none;
+//           }
+//         }
+
+//         .link:hover{
+//           background-color: #dadbf1;
+//           color: #070606;
+
+//           a {
+//             color: #070606;
+//           }
+          
+//         }
+
+
+
+//         .link:last-child{
+//           background-color: #4C5FD5;
+//           padding: .7rem 1.5rem;
+//           border-radius: 5px;
+//           border: #596dee 2px solid;
+//           font-weight: bold;
+          
+//         }
+
+//         .link:last-child:hover{
+//           background-color: #dadbf1;
+//           border: #e6e7f8 2px solid;
+          
+//           a {
+//             color: #070606;
+//           }
+          
+//         }
+
+//       }
+//     }
+//   }
+  
+// }
+
